@@ -7,7 +7,7 @@ Requirements :
 1. Node.js from the [Node.js download page](https://nodejs.org/en/download/).
 2. You need to install [nwlink](https://www.npmjs.com/package/nwlink).
 
-Let's create your very own numworks app :
+Create your very own numworks app :
 
 1. First, open your PowerShell terminal and run the following commands :
 ```shell
