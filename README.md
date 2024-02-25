@@ -31,7 +31,7 @@ cd C:\path\to\your\makefile\folder
 make #or 'make run' if you want to upload your app on your calculator
 ```
 
-##Create your app
+## Create your app
 Your project folder must contain :
 1. A Makefile file ( like the one present in the repository above )
 2. Your .cpp file
